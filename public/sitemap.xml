@@ -1,11 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2012-09-02T10:13:46-06:00</lastmod>
+        <loc>http://schipperius.com/os-x-install</loc>
+        <lastmod>2012-09-02T15:08:04-06:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2012-09-02T10:13:46-06:00</lastmod>
+        <loc>http://schipperius.com/building-the-web-development-environment-part-one</loc>
+        <lastmod>2012-09-02T15:01:15-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://schipperius.com/blog/archives/</loc>
+        <lastmod>2012-09-02T18:02:33-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://schipperius.com/blog/</loc>
+        <lastmod>2012-09-02T17:58:24-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://schipperius.com/home/</loc>
+        <lastmod>2012-09-02T18:01:28-06:00</lastmod>
     </url>
 </urlset>

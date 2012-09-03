@@ -1,0 +1,267 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Building the Web Development Environment - Part One - the Nature of Things</title>
+  <meta name="author" content="Mark Schipper">
+
+  
+  <meta name="description" content="We begin with a clean install of OS X (Lion). There are in fact, quite a few tools that need to be downloaded and or installed directly before you &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://schipperius.com/building-the-web-development-environment-part-one">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="the Nature of Things" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/home">the Nature of Things</a></h1>
+  
+    <h2>a non-IT perspective on Web Design and Development.</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:schipperius.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/home">Home</a></li>
+  <li><a href="/blog">Blog</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Building the Web Development Environment - Part One</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-08T09:37:00-06:00" pubdate data-updated="true">Jul 8<span>th</span>, 2012</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>We begin with a clean <a href="/blog/2012/06/24/os-x-install/index.html">install</a> of OS X (Lion).</p>
+
+<p>There are in fact, quite a few tools that need to be downloaded and or installed directly before you can even begin thinking about building a website properly. The following list includes the tools I have currently installed and the order in which I installed them.</p>
+
+<p>It took several iterations and a lot of reading to get this list, so if this is new to you, take your time and read the documentation (a few times if you have to) and install one item at a time.</p>
+
+<p>There is be a lot of new terminology and processes thrown at you, but it is all learnable, and if you make a mistake you can easily start again.</p>
+
+<ol>
+<li><p>Web Browser - to browse the Web of course.
+<a href="https://www.google.com/chrome">Google Chrome</a> seems to be top of the hit parade these days.</p>
+
+<p>  You may also want to install Mozilla&#8217;s Firefox (you should already have Apple&#8217;s Safari as part of the OS X install).</p></li>
+<li><p>XCode - Apple&#8217;s integrated development environment for creating applications.</p>
+
+<p> But don&#8217;t download the whole thing, just download the <a href="https://developer.apple.com/downloads/index.action">Command Line Tools</a>.</p>
+
+<p> When the download is complete, open download folder, find <code>Command Line Tools.mpkg</code>, double click to install and follow the prompts.</p></li>
+<li><p>Command Line Interface (CLI) - is used to interact directly with the computer.
+<a href="http://www.iterm2.com/">iTerm2</a> is a replacement for the default Terminal that ships with your Mac.</p></li>
+<li><p><a href="http://mxcl.github.com/homebrew/">Homebrew</a> - is a package management system that easily installs additional tools you will need.</p>
+
+<p> To install Homebrew, open an iterm2 window and copy/paste: <code>ruby &lt;(curl -fsSkL raw.github.com/mxcl/homebrew/go)</code> at the Terminal prompt.</p>
+
+<p> Read the documentation on the <a href="http://mxcl.github.com/homebrew/">Homebrew</a> site for more information.</p></li>
+<li><p>Wget - is a computer program that retrieves content from web servers. This can be installed in a terminal window with Homebrew: <code>$ brew install wget</code></p></li>
+<li><p><a href="https://github.com/robbyrussell/oh-my-zsh">Oh-my-zsh</a> - is a community-driven framework for managing the zsh configuration.</p>
+
+<p> Oh-my-zsh can be installed in a terminal window with wget: <code>wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh</code></p></li>
+</ol>
+
+
+<p>This concludes part one of a multi-post article on setting up your environment to begin building websites. The second part will include installing version control, a database, image editor and more&#8230;</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Mark Schipper</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-07-08T09:37:00-06:00" pubdate data-updated="true">Jul 8<span>th</span>, 2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/install/'>Install</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://schipperius.com/building-the-web-development-environment-part-one" data-via="" data-counturl="http://schipperius.com/building-the-web-development-environment-part-one" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/os-x-install" title="Previous Post: OS X Install">&laquo; OS X Install</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/building-the-web-development-environment-part-one">Building the Web Development Environment - Part One</a>
+      </li>
+    
+      <li class="post">
+        <a href="/os-x-install">OS X Install</a>
+      </li>
+    
+  </ul>
+</section>
+<section>
+  <h1>Categories</h1>
+  <ul id="categories">
+    <li class='category'><a href='/blog/categories/install/'>Install (2)</a></li>
+
+  </ul>
+</section>
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+	<span class="credit">schipperius.com powered by 
+		<a href="http://octopress.org">Octopress</a> and hosted by 
+		<a href="http://heroku.com">Heroku</a>.
+	</span>
+	<span class="right">Copyright &copy; 2012
+	</span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'schipperius';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://schipperius.com/building-the-web-development-environment-part-one';
+        var disqus_url = 'http://schipperius.com/building-the-web-development-environment-part-one';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
