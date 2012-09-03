@@ -14,4 +14,4 @@ In my youth I remember visiting many National Parks found throughout the Northwe
 ![Take nothing but pictures, leave nothing but photographs](/images/articles/take-nothing-but-pictures.jpg/ "Take nothing but pictures, leave nothing but photographs")
 <small><small>Photograph Credit: [JC Olivera](http://www.jcolivera.com/). Currently used without permission.</small></small>
 
-I'm no [John Muir](http://en.wikipedia.org/wiki/John_Muir) but this phrase certainly defines how I see my place in this world.
+I'm no [John Muir](http://en.wikipedia.org/wiki/John_Muir) but this phrase certainly defines my place in *this* world.
