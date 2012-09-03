@@ -3,12 +3,14 @@ layout: post
 title: "Building the Web Development Environment - Part One"
 date: 2012-07-08 09:37
 comments: true
-categories: Install
+categories: [Development Environment]
+draft: false
+published: true
 ---
 
-We begin with a clean [install](/blog/2012/06/24/os-x-install/index.html) of OS X (Lion).
+There are quite a few tools that need to be downloaded and or installed directly before you can begin building a website from scratch. The following list includes tools currently used and the order in which I installed them.<!-- more -->
 
-There are in fact, quite a few tools that need to be downloaded and or installed directly before you can even begin thinking about building a website properly. The following list includes the tools I have currently installed and the order in which I installed them.
+We begin with a clean [install](/blog/2012/06/24/os-x-install/index.html) of OS X (Lion).
 
 It took several iterations and a lot of reading to get this list, so if this is new to you, take your time and read the documentation (a few times if you have to) and install one item at a time. 
 

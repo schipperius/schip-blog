@@ -3,10 +3,12 @@ layout: post
 title: "OS X Install"
 date: 2012-06-24 05:37
 comments: true
-categories: Install
+categories: [Mac]
+draft: false
+published: true
 ---
 
-I am currently using an iMac (early 2009) with Lion 10.7.4 installed. I find myself constantly downloading and trying new software, most of which does not end up being used. I also seem to install and reinstall a lot of stuff from the Terminal on account of making a lot of neewbie mistakes.
+I am currently using an iMac (early 2009) with Lion 10.7.4 installed. I find myself constantly downloading and trying new software, most of which does not end up being used. I also seem to install and reinstall a lot of stuff from the Terminal on account of making a lot of neewbie mistakes.<!-- more -->
 
 I am not sure how all of this activity impacts the Mac, but it seems get sluggish after awhile, and so I have developed the habit of rebuilding every spring, getting rid of all the crud and starting with a fresh [clean install](http://mashable.com/2011/07/20/lion-clean-install-guide/?utm_source=iphoneapp).
 

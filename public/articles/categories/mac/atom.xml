@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Mac | the Nature of Things]]></title>
+  <link href="http://schipperius.com/articles/categories/mac/atom.xml" rel="self"/>
+  <link href="http://schipperius.com/"/>
+  <updated>2012-09-03T11:04:59-06:00</updated>
+  <id>http://schipperius.com/</id>
+  <author>
+    <name><![CDATA[Mark Schipper]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[OS X Install]]></title>
+    <link href="http://schipperius.com/articles/os-x-install"/>
+    <updated>2012-06-24T05:37:00-06:00</updated>
+    <id>http://schipperius.com/articles/os-x-install</id>
+    <content type="html"><![CDATA[<p>I am currently using an iMac (early 2009) with Lion 10.7.4 installed. I find myself constantly downloading and trying new software, most of which does not end up being used. I also seem to install and reinstall a lot of stuff from the Terminal on account of making a lot of neewbie mistakes.<!-- more --></p>
+
+<p>I am not sure how all of this activity impacts the Mac, but it seems get sluggish after awhile, and so I have developed the habit of rebuilding every spring, getting rid of all the crud and starting with a fresh <a href="http://mashable.com/2011/07/20/lion-clean-install-guide/?utm_source=iphoneapp">clean install</a>.</p>
+
+<p>I begin by downloading OS X from the App Store and making a <a href="http://osxdaily.com/2011/07/08/make-a-bootable-mac-os-x-10-7-lion-installer-from-a-usb-flash-drive/">bootable installer</a> with a USB 8GB flash drive. Using <a href="http://en.wikipedia.org/wiki/Time_Machine_(Mac_OS">time machine</a>, I back everything up, and double check that I have, in fact, backed everything up.</p>
+
+<p>Following these <a href="http://osxdaily.com/2011/06/21/mac-os-x-lion-clean-install-explained/">directions</a>, I restart the Mac, holding down the option key so that the computer boots from the external drive, and proceed to reinstall the OS X.</p>
+
+<p>After the install, I will have an operating system with nothing much on it, a clean, lean machine. I can now begin reinstalling only those items I need or want.</p>
+
+<p>Since I am a Wannabe Web Designer and Developer, my initial software installs will be to create a development environment on my Mac.</p>
+]]></content>
+  </entry>
+  
+</feed>
