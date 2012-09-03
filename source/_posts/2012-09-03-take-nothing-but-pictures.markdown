@@ -11,7 +11,7 @@ published: true
 In my youth I remember visiting many National Parks found throughout the Northwestern United States. At the start of many trails would be a sign that read:<!-- more -->
 
 >
-![Take Nothing but Pictures...](/images/test.jpeg/ "Take Nothing but Pictures...")
-<small><small>Photograph Credit: [jcolivera](http://www.jcolivera.com/). Currently used without permission.</small></small>
+![Take nothing but pictures, leave nothing but photographs](/images/articles/take-nothing-but-pictures.jpg/ "Take nothing but pictures, leave nothing but photographs")
+<small><small>Photograph Credit: [JC Olivera](http://www.jcolivera.com/). Currently used without permission.</small></small>
 
-Through the years, I have thought a lot about that phrase and it has certainly influenced how I see my place in this world.
+I'm no [John Muir](http://en.wikipedia.org/wiki/John_Muir) but this phrase certainly defines how I see my place in this world.
