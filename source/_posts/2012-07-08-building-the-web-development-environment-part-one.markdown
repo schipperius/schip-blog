@@ -12,7 +12,7 @@ There are quite a few tools that need to be downloaded and or installed directly
 
 We begin with a clean [install](/blog/2012/06/24/os-x-install/index.html) of OS X (Lion).
 
-It took several iterations and a lot of reading to get this list, so if this is new to you, take your time and read the documentation (a few times if you have to) and install one item at a time. 
+It took several iterations and a lot of reading to get this list, so if this is new to you, take your time and read the documentation (a few times if you have to) and have patience, installing one item at a time.
 
 There is be a lot of new terminology and processes thrown at you, but it is all learnable, and if you make a mistake you can easily start again.
 

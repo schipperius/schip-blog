@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Web Development | the Nature of Things]]></title>
   <link href="http://schipperius.com/articles/categories/web-development/atom.xml" rel="self"/>
   <link href="http://schipperius.com/"/>
-  <updated>2012-09-03T18:25:05-06:00</updated>
+  <updated>2012-09-03T21:05:51-06:00</updated>
   <id>http://schipperius.com/</id>
   <author>
     <name><![CDATA[Mark Schipper]]></name>
@@ -14,39 +14,39 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Octopress Beginings]]></title>
-    <link href="http://schipperius.com/articles/octopress-beginings"/>
-    <updated>2012-09-03T18:24:00-06:00</updated>
-    <id>http://schipperius.com/articles/octopress-beginings</id>
-    <content type="html"><![CDATA[<p>A few months ago, I was looking for a blogging tool and stumbled upon <a href="http://octopress.org/">Octopress</a> which has been receiving a lot of attention.</p>
-
-<p>The documentation sounds great for developers, but for non-IT guys like me, it may not fill in all of the gaps.</p>
-
-<p>If you are new to this stuff, you may want to add a few proficiencies to the <a href="http://octopress.org/docs/setup/">setup page</a> including: HTML, CSS, SASS, Ruby, Jekyll, Liquid and Markdown.</p>
-
-<p>In addition, you will want to have some familiarity with how all these pieces fit together. A large number of bloggers have commented on how they were able to set up their site in a matter of hours.</p>
-
-<p>I have made several customizations and I am writing my fifth post and it has taken the entire Labour Day Weekend!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Octopress Customizations]]></title>
-    <link href="http://schipperius.com/articles/octopress-customizations"/>
+    <title type="html"><![CDATA[Customizing Octopress]]></title>
+    <link href="http://schipperius.com/articles/customizing-octopress"/>
     <updated>2012-09-03T17:12:00-06:00</updated>
-    <id>http://schipperius.com/articles/octopress-customizations</id>
-    <content type="html"><![CDATA[<p>What follows is a list of customizations made, and the resources I used to make them.</p>
+    <id>http://schipperius.com/articles/customizing-octopress</id>
+    <content type="html"><![CDATA[<p>What follows is an incomplete list of the customizations I have made to my Octopress site, and the resources I used to learn the steps.<!-- more --></p>
 
 <ol>
 <li><p>One thing missing “out of the box” is a linked category or tag list in the sidebar. Dan Watson <a href="http://www.dotnetguy.co.uk/post/2012/06/25/octopress-category-list-plugin/">explains</a> just how to do this, and it works. Yeah!</p></li>
 <li><p>Rake new_post does not work with zsh.
 This error can be resolved with the following <a href="http://ryanarneson.com/blog/2012/04/07/rake-new-post-doesnt-work-with-zsh/">work around</a></p></li>
 <li><p>Building a <a href="http://www.donothackcore.com/blog/2012/05/06/contact-form-in-octopress">Contact Form - Part One</a>
-using <a href="https://github.com/arshad/Google-Form-Octopress">Google Docs</a></p></li>
+using <a href="https://github.com/arshad/Google-Form-Octopress">Google Docs</a>, and adding notifications to the <a href="http://www.donothackcore.com/blog/2012/05/07/contact-form-in-octopress-making-notifications-awesomer/">Contact Form - Part Two</a></p></li>
 </ol>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Beginning with Octopress]]></title>
+    <link href="http://schipperius.com/articles/beginning-with-octopress"/>
+    <updated>2012-07-29T18:24:00-06:00</updated>
+    <id>http://schipperius.com/articles/beginning-with-octopress</id>
+    <content type="html"><![CDATA[<p>A few months ago, I was looking for a blogging tool and stumbled upon <a href="http://octopress.org/">Octopress</a> which as of late, has been receiving considerable attention.<!-- more --></p>
 
-<p>Adding notifications to the <a href="http://www.donothackcore.com/blog/2012/05/07/contact-form-in-octopress-making-notifications-awesomer/">Contact Form - Part Two</a></p>
+<p>The <a href="http://octopress.org/docs/">documentation</a> reads great for developers, but for non-IT guys like me, it does not feel complete.</p>
+
+<p>If you are new to this stuff, you may want to add a few proficiencies to the <a href="http://octopress.org/docs/setup/">setup page</a> including: HTML, CSS, SASS, Ruby, Jekyll, Liquid and Markdown.</p>
+
+<p>Once you create your new blog, study the contents of the root folder, and learn how the pieces all fit together.</p>
+
+<p>In reading a lot of new Octopress blogs, a large number of developers have commented on how they were able to set up their site in a matter of hours, this reminds me of the hype around creating a blog with Ruby on Rails in 15 minutes.</p>
+
+<p>People learning these tools, technologies and methodologies for the first time will spend a day for every hour a seasoned professional will spend.</p>
 ]]></content>
   </entry>
   
