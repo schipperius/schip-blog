@@ -3,7 +3,7 @@ layout: post
 title: "OS X Install"
 date: 2012-06-24 05:37
 comments: true
-categories: [Mac]
+categories: [Development Environment]
 draft: false
 published: true
 ---

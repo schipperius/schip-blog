@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://schipperius.com/articles/os-x-install</loc>
-        <lastmod>2012-09-03T10:39:52-06:00</lastmod>
+        <lastmod>2012-09-03T16:26:22-06:00</lastmod>
     </url>
     <url>
         <loc>
@@ -15,12 +15,24 @@
         <lastmod>2012-09-03T14:47:18-06:00</lastmod>
     </url>
     <url>
+        <loc>http://schipperius.com/articles/octopress-customizations</loc>
+        <lastmod>2012-09-03T18:24:55-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://schipperius.com/articles/octopress-beginings</loc>
+        <lastmod>2012-09-03T18:24:55-06:00</lastmod>
+    </url>
+    <url>
         <loc>http://schipperius.com/articles/archive/</loc>
-        <lastmod>2012-09-03T14:47:18-06:00</lastmod>
+        <lastmod>2012-09-03T18:24:55-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/articles/</loc>
-        <lastmod>2012-09-03T14:47:18-06:00</lastmod>
+        <lastmod>2012-09-03T18:24:55-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://schipperius.com/contact/</loc>
+        <lastmod>2012-09-03T17:42:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/</loc>

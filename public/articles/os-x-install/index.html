@@ -30,6 +30,17 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
+<!-- jQuery for Google Contact Form-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+    // Avoid conflict with ender.js.
+    jQuery.noConflict();
+</script>
+<!-- jQuery Form Plugin -->
+<script src="http://malsup.github.com/jquery.form.js"></script>
+<!-- jQuery Form Validation Plugin -->
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script> 
+<script src="/javascripts/google_form.js"></script>
   
 
 </head>
@@ -59,6 +70,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/articles">Articles</a></li>
   <li><a href="/articles/archive">Archive</a></li>
+  <li><a href="/contact">Contact</a></li>
 </ul>
 
 </nav>
@@ -132,7 +144,7 @@
 
 <span class="categories">
   
-    <a class='category' href='/articles/categories/mac/'>Mac</a>
+    <a class='category' href='/articles/categories/development-environment/'>Development Environment</a>
   
 </span>
 
@@ -172,6 +184,14 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/articles/octopress-beginings">Octopress Beginings</a>
+      </li>
+    
+      <li class="post">
+        <a href="/articles/octopress-customizations">Octopress Customizations</a>
+      </li>
+    
+      <li class="post">
         <a href="/articles/take-nothing-but-pictures">Take Nothing but Pictures</a>
       </li>
     
@@ -188,8 +208,8 @@
 <section>
   <h1>Categories</h1>
   <ul id="categories">
-    <li class='category'><a href='/articles/categories/development-environment/'>Development Environment (1)</a></li>
-<li class='category'><a href='/articles/categories/mac/'>Mac (1)</a></li>
+    <li class='category'><a href='/articles/categories/development-environment/'>Development Environment (2)</a></li>
+<li class='category'><a href='/articles/categories/web-development/'>Web Development (2)</a></li>
 <li class='category'><a href='/articles/categories/the-nature-of-things/'>the Nature of Things (1)</a></li>
 
   </ul>
