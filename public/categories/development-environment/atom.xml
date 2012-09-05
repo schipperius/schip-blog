@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Development Environment | the Nature of Things]]></title>
+  <link href="http://schipperius.com//categories/development-environment/atom.xml" rel="self"/>
+  <link href="http://schipperius.com/"/>
+  <updated>2012-09-04T21:24:29-06:00</updated>
+  <id>http://schipperius.com/</id>
+  <author>
+    <name><![CDATA[Mark Schipper]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Building the Web Development Environment - Part One]]></title>
+    <link href="http://schipperius.com/articles/building-the-web-development-environment-part-one"/>
+    <updated>2012-07-08T09:37:00-06:00</updated>
+    <id>http://schipperius.com/articles/building-the-web-development-environment-part-one</id>
+    <content type="html"><![CDATA[<p>There are quite a few tools that need to be downloaded and or installed directly before you can begin building a website from scratch. The following list includes tools currently used and the order in which I installed them.<!-- more --></p>
+
+<p>We begin with a clean <a href="/blog/2012/06/24/os-x-install/index.html">install</a> of OS X (Lion).</p>
+
+<p>It took several iterations and a lot of reading to get this list, so if this is new to you, take your time and read the documentation (a few times if you have to) and have patience, installing one item at a time.</p>
+
+<p>There is be a lot of new terminology and processes thrown at you, but it is all learnable, and if you make a mistake you can easily start again.</p>
+
+<ol>
+<li><p>Web Browser - to browse the Web of course.
+<a href="https://www.google.com/chrome">Google Chrome</a> seems to be top of the hit parade these days.</p>
+
+<p>  You may also want to install Mozilla's Firefox (you should already have Apple's Safari as part of the OS X install).</p></li>
+<li><p>XCode - Apple's integrated development environment for creating applications.</p>
+
+<p> But don't download the whole thing, just download the <a href="https://developer.apple.com/downloads/index.action">Command Line Tools</a>.</p>
+
+<p> When the download is complete, open download folder, find <code>Command Line Tools.mpkg</code>, double click to install and follow the prompts.</p></li>
+<li><p>Command Line Interface (CLI) - is used to interact directly with the computer.
+<a href="http://www.iterm2.com/">iTerm2</a> is a replacement for the default Terminal that ships with your Mac.</p></li>
+<li><p><a href="http://mxcl.github.com/homebrew/">Homebrew</a> - is a package management system that easily installs additional tools you will need.</p>
+
+<p> To install Homebrew, open an iterm2 window and copy/paste: <code>ruby &lt;(curl -fsSkL raw.github.com/mxcl/homebrew/go)</code> at the Terminal prompt.</p>
+
+<p> Read the documentation on the <a href="http://mxcl.github.com/homebrew/">Homebrew</a> site for more information.</p></li>
+<li><p>Wget - is a computer program that retrieves content from web servers. This can be installed in a terminal window with Homebrew: <code>$ brew install wget</code></p></li>
+<li><p><a href="https://github.com/robbyrussell/oh-my-zsh">Oh-my-zsh</a> - is a community-driven framework for managing the zsh configuration.</p>
+
+<p> Oh-my-zsh can be installed in a terminal window with wget: <code>wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh</code></p></li>
+</ol>
+
+
+<p>This concludes part one of a multi-post article on setting up your environment to begin building websites. The second part will include installing version control, a database, image editor and more...</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[OS X Install]]></title>
+    <link href="http://schipperius.com/articles/os-x-install"/>
+    <updated>2012-06-24T05:37:00-06:00</updated>
+    <id>http://schipperius.com/articles/os-x-install</id>
+    <content type="html"><![CDATA[<p>I am currently using an iMac (early 2009) with Lion 10.7.4 installed. I find myself constantly downloading and trying new software, most of which does not end up being used. I also seem to install and reinstall a lot of stuff from the Terminal on account of making a lot of neewbie mistakes.<!-- more --></p>
+
+<p>I am not sure how all of this activity impacts the Mac, but it seems get sluggish after awhile, and so I have developed the habit of rebuilding every spring, getting rid of all the crud and starting with a fresh <a href="http://mashable.com/2011/07/20/lion-clean-install-guide/?utm_source=iphoneapp">clean install</a>.</p>
+
+<p>I begin by downloading OS X from the App Store and making a <a href="http://osxdaily.com/2011/07/08/make-a-bootable-mac-os-x-10-7-lion-installer-from-a-usb-flash-drive/">bootable installer</a> with a USB 8GB flash drive. Using <a href="http://en.wikipedia.org/wiki/Time_Machine_(Mac_OS">time machine</a>, I back everything up, and double check that I have, in fact, backed everything up.</p>
+
+<p>Following these <a href="http://osxdaily.com/2011/06/21/mac-os-x-lion-clean-install-explained/">directions</a>, I restart the Mac, holding down the option key so that the computer boots from the external drive, and proceed to reinstall the OS X.</p>
+
+<p>After the install, I will have an operating system with nothing much on it, a clean, lean machine. I can now begin reinstalling only those items I need or want.</p>
+
+<p>Since I am a Wannabe Web Designer and Developer, my initial software installs will be to create a development environment on my Mac.</p>
+]]></content>
+  </entry>
+  
+</feed>

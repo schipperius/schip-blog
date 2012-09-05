@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://schipperius.com/articles/os-x-install</loc>
-        <lastmod>2012-09-03T16:26:22-06:00</lastmod>
+        <lastmod>2012-09-04T19:44:00-06:00</lastmod>
     </url>
     <url>
         <loc>
@@ -16,30 +16,34 @@
     </url>
     <url>
         <loc>http://schipperius.com/articles/beginning-with-octopress</loc>
-        <lastmod>2012-09-03T20:14:13-06:00</lastmod>
+        <lastmod>2012-09-04T20:32:37-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/articles/customizing-octopress</loc>
-        <lastmod>2012-09-03T21:03:42-06:00</lastmod>
+        <lastmod>2012-09-04T20:32:37-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/articles/give-in-give-up-give-over</loc>
-        <lastmod>2012-09-03T20:59:17-06:00</lastmod>
+        <lastmod>2012-09-04T20:33:07-06:00</lastmod>
     </url>
     <url>
-        <loc>http://schipperius.com/articles/archive/</loc>
-        <lastmod>2012-09-03T21:03:42-06:00</lastmod>
+        <loc>http://schipperius.com/archives/</loc>
+        <lastmod>2012-09-04T20:33:07-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/articles/</loc>
-        <lastmod>2012-09-03T21:03:42-06:00</lastmod>
+        <lastmod>2012-09-04T20:33:07-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://schipperius.com/categories/</loc>
+        <lastmod>2012-09-04T20:24:54-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/contact/</loc>
-        <lastmod>2012-09-03T17:42:56-06:00</lastmod>
+        <lastmod>2012-09-04T20:30:39-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/</loc>
-        <lastmod>2012-09-02T21:03:48-06:00</lastmod>
+        <lastmod>2012-09-04T19:46:06-06:00</lastmod>
     </url>
 </urlset>
