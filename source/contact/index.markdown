@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sidebar_collapse
 title: "Contact"
 footer: false
 ---
