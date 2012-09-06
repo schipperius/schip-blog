@@ -39,3 +39,8 @@
     cursor: pointer;
   }
 }
+
+// removes bullets from categories page
+.bullet {
+	list-style-type: none;
+}

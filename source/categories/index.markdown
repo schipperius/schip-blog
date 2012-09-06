@@ -4,4 +4,6 @@ title: "Categories"
 footer: false
 ---
 
-{% category_list %}
+<ul class="bullet">
+  {% category_list %}
+</ul>

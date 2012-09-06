@@ -3,7 +3,7 @@ layout: post
 title: "Take Nothing but Pictures"
 date: 2012-07-22 07:32
 comments: true
-categories: [the Nature of Things]
+categories: [Nature of Things]
 draft: false
 published: true
 ---

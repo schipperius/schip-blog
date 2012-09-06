@@ -3,7 +3,7 @@ layout: post
 title: "Give In, Give Up, Give Over"
 date: 2012-09-02 15:58
 comments: true
-categories: [the Nature of Things]
+categories: [Nature of Things]
 published: true
 ---
 
