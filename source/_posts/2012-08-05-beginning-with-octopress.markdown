@@ -14,6 +14,6 @@ If you are new to this stuff, you may want to add a few proficiencies to the [se
 
 Once you create your new blog, study the contents of the root folder, and learn how the pieces all fit together. 
 
-In reading a lot of new Octopress blogs, a large number of developers have commented on how they were able to set up their site in a matter of hours, this reminds me of the hype around creating a blog with Ruby on Rails in 15 minutes.
+In reading a lot of new Octopress blogs, a large number of developers have commented on how they were able to set up their site in a matter of hours, this reminds me of the [hype](http://vimeo.com/5362441) around creating a blog with [Ruby on Rails](http://rubyonrails.org/) in 15 minutes.
 
-People learning these tools, technologies and methodologies for the first time will spend a day for every hour a seasoned professional will spend.
+People learning these tools, technologies and methodologies for the first time can easily expect to spend a day for every hour a seasoned professional will spend.

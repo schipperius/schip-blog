@@ -2,48 +2,52 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://schipperius.com/articles/os-x-install</loc>
-        <lastmod>2012-09-04T19:44:00-06:00</lastmod>
+        <lastmod>2012-09-06T22:05:13-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://schipperius.com/articles/building-the-web-development-environment-part-one
         </loc>
-        <lastmod>2012-09-03T20:19:15-06:00</lastmod>
+        <lastmod>2012-09-06T22:05:13-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/articles/take-nothing-but-pictures</loc>
-        <lastmod>2012-09-05T17:15:22-06:00</lastmod>
+        <lastmod>2012-09-06T22:05:13-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/articles/beginning-with-octopress</loc>
-        <lastmod>2012-09-04T20:32:37-06:00</lastmod>
+        <lastmod>2012-09-06T22:05:13-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/articles/customizing-octopress</loc>
-        <lastmod>2012-09-04T20:32:37-06:00</lastmod>
+        <lastmod>2012-09-06T22:05:13-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/articles/give-in-give-up-give-over</loc>
-        <lastmod>2012-09-05T17:15:22-06:00</lastmod>
+        <lastmod>2012-09-06T22:05:13-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/archives/</loc>
-        <lastmod>2012-09-05T17:28:32-06:00</lastmod>
+        <lastmod>2012-09-06T21:48:30-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/articles/</loc>
-        <lastmod>2012-09-05T20:35:29-06:00</lastmod>
+        <lastmod>2012-09-06T21:48:30-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/categories/</loc>
-        <lastmod>2012-09-05T20:22:53-06:00</lastmod>
+        <lastmod>2012-09-06T22:05:13-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/contact/</loc>
-        <lastmod>2012-09-05T20:04:42-06:00</lastmod>
+        <lastmod>2012-09-07T17:17:33-06:00</lastmod>
     </url>
     <url>
         <loc>http://schipperius.com/</loc>
-        <lastmod>2012-09-05T19:54:56-06:00</lastmod>
+        <lastmod>2012-09-07T17:51:32-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://schipperius.com/resources/</loc>
+        <lastmod>2012-09-07T17:22:01-06:00</lastmod>
     </url>
 </urlset>

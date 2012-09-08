@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Web Development | the Nature of Things]]></title>
   <link href="http://schipperius.com/categories/web-development/atom.xml" rel="self"/>
   <link href="http://schipperius.com/"/>
-  <updated>2012-09-05T21:16:42-06:00</updated>
+  <updated>2012-09-07T18:16:57-06:00</updated>
   <id>http://schipperius.com/</id>
   <author>
     <name><![CDATA[Mark Schipper]]></name>
@@ -44,9 +44,9 @@ using <a href="https://github.com/arshad/Google-Form-Octopress">Google Docs</a>,
 
 <p>Once you create your new blog, study the contents of the root folder, and learn how the pieces all fit together.</p>
 
-<p>In reading a lot of new Octopress blogs, a large number of developers have commented on how they were able to set up their site in a matter of hours, this reminds me of the hype around creating a blog with Ruby on Rails in 15 minutes.</p>
+<p>In reading a lot of new Octopress blogs, a large number of developers have commented on how they were able to set up their site in a matter of hours, this reminds me of the <a href="http://vimeo.com/5362441">hype</a> around creating a blog with <a href="http://rubyonrails.org/">Ruby on Rails</a> in 15 minutes.</p>
 
-<p>People learning these tools, technologies and methodologies for the first time will spend a day for every hour a seasoned professional will spend.</p>
+<p>People learning these tools, technologies and methodologies for the first time can easily expect to spend a day for every hour a seasoned professional will spend.</p>
 ]]></content>
   </entry>
   

@@ -1,12 +1,27 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-// floats copyright in footer to teh right
+// floats copyright to the right
 .right {
 	float: right;
 }
 
-// css styles for Google Contact Form
+// removes bullets from categories page
+.bullet {
+	list-style-type: none;
+}
+
+// removes highlighted underline from arrows in endnotes
+.arrow {
+	text-decoration: none;
+}
+
+// reduce size of endnotes
+.endnotes {
+	font-size: 80%;
+}
+
+// Google Contact Form
 .google-form-wrapper {
   .error {
     color: red;
@@ -38,9 +53,4 @@
     width: auto;
     cursor: pointer;
   }
-}
-
-// removes bullets from categories page
-.bullet {
-	list-style-type: none;
 }
