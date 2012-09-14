@@ -7,7 +7,7 @@ categories:
 - Software Development
 - Career Development
 - Web Development
-publish: false
+published: false
 ---
 
 So how *do you* describe what a computer programmer really does in his/her day-to-day work?
