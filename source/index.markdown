@@ -11,8 +11,6 @@ In August 2010, I jumped into the [Ruby on Rails](http://rubyonrails.org/) envir
 
 Does the [Internet](http://en.wikipedia.org/wiki/Internet) need another blog on web development? I don’t think so, but I do think I am able to provide a certain perspective that currently seems to be missing: the non-IT entry into web design and development.
 
-Hopefully these articles will help others, in some way, as so many [writers](/resources) continue to help me.
-
 <a class="read-on" href="/articles">Read on &rarr;</a> 
 
 Cheers,

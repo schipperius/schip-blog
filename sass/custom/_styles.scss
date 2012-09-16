@@ -1,6 +1,25 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+
+// reduce font-size of article headings
+h1 {
+  font-size: 1.5em;
+  line-height: 1.2em;
+}
+
+@media only screen and (min-width: 992px) {
+  body { font-size: 1.15em; }
+  h1 { font-size: 1.7em; line-height: 1.2em; }
+}
+
+h2, section h1 {
+  font-size: 1.3em;
+}
+h3, section h2, section section h1 {
+  font-size: 1.1em;
+}
+
 // floats copyright to the right
 .right {
 	float: right;
@@ -55,9 +74,6 @@
   }
 }
 
-
-
-
 .read-on {
   background: darken($main-bg, 3);
   display: inline-block;
@@ -73,9 +89,5 @@
     color: $main-bg;
   }
 }
-
-
-
-
 
 @import "mixins";
