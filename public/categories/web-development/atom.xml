@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Web Development | the Nature of Things]]></title>
   <link href="http://schipperius.com/categories/web-development/atom.xml" rel="self"/>
   <link href="http://schipperius.com/"/>
-  <updated>2012-09-16T12:28:23-06:00</updated>
+  <updated>2012-09-16T15:23:52-06:00</updated>
   <id>http://schipperius.com/</id>
   <author>
     <name><![CDATA[Mark Schipper]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[What Does a Programmer Really Do?]]></title>
+    <link href="http://schipperius.com/articles/what-does-a-programmer-really-do"/>
+    <updated>2012-09-16T19:45:00-06:00</updated>
+    <id>http://schipperius.com/articles/what-does-a-programmer-really-do</id>
+    <content type="html"><![CDATA[<p>So how <em>do you</em> describe what a computer programmer really does?</p>
+
+<p>Wikipedia describes <a href="http://en.wikipedia.org/wiki/Computer_programming#Programmers">computer programming</a> as the process of designing, writing, testing, debugging, and maintaining the source code of a computer program, but this definition doesn't help me very much.<!-- more --></p>
+
+<p>Ka Wai Cheung in his book, <a href="/resources">The Developer's Code: What Real Programmers Do</a>, describes software development as being similar to writing a novel or composing music.</p>
+
+<p>Cheung goes on to say, that an author might write a chapter outline to get a general guide about what she wants to write about. But after that, she starts writing the real thing. Then she edits and repeats, a word change here or an entire chapter removed there.</p>
+
+<p>And, a musician does not write sheet music for months and then hopes that the notes sound right. Instead, he plays and plays and finds a riff that works. He might have a few lines of lyrics and then finds the right chords around it, or vice versa. He builds the song in pieces and tests it in pieces.</p>
+
+<p>The activities of a coder, novelist and musician are all very similar, each respective craft involves taking the audience (whether viewer, reader, or listener) from a starting point and engaging them through to an end point.</p>
+
+<p>At its core, programming (at least in the context of building a website) is about <a href="http://en.wikipedia.org/wiki/Storytelling">storytelling</a>; a means of conveying the events, words, images and sounds needed to share a particular experience whether it be of an entertainment, educational or commercial purpose.</p>
+
+<p>This may, in part, explain why many of us appreciate a great <a href="http://www.youtube.com/watch?v=ib-Qiyklq-Q">commercial</a> from <a href="http://www.coca-cola.com/en/index.html">Coca Cola</a>.</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/ib-Qiyklq-Q" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Or a great <a href="http://www.youtube.com/watch?v=3fa4HUiFJ6c">guitar riff</a> from <a href="http://www.youtube.com/watch?v=Ps3717fqlkY&amp;feature=related">Keith Richards</a>.</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/3fa4HUiFJ6c" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Or great <a href="https://github.com/imathis/octopress">code</a> from <a href="http://octopress.org/">Brandon Mathis</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Customizing Octopress]]></title>
