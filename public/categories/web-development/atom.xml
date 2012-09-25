@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Web Development | the Nature of Things]]></title>
   <link href="http://schipperius.com/categories/web-development/atom.xml" rel="self"/>
   <link href="http://schipperius.com/"/>
-  <updated>2012-09-16T16:34:21-06:00</updated>
+  <updated>2012-09-25T09:01:01-06:00</updated>
   <id>http://schipperius.com/</id>
   <author>
     <name><![CDATA[Mark Schipper]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[What Does a Programmer Really Do?]]></title>
+    <title type="html"><![CDATA[What Does A Programmer Really Do?]]></title>
     <link href="http://schipperius.com/articles/what-does-a-programmer-really-do"/>
     <updated>2012-09-16T19:45:00-06:00</updated>
     <id>http://schipperius.com/articles/what-does-a-programmer-really-do</id>
@@ -41,8 +41,6 @@
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/-CdopMJu7r4" frameborder="0" allowfullscreen></iframe>
 
-
-<p>Or great <a href="https://github.com/imathis/octopress">code</a> from <a href="http://octopress.org/">Brandon Mathis</a>.</p>
 ]]></content>
   </entry>
   

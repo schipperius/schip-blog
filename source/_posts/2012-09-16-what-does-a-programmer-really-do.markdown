@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Does a Programmer Really Do?"
+title: "What Does A Programmer Really Do?"
 date: 2012-09-16 19:45
 comments: true
 categories: 
@@ -30,5 +30,3 @@ This may, in part, explain why many of us appreciate a great [commercial](http:/
 Or a great [guitar riff](http://www.youtube.com/watch?v=-CdopMJu7r4&feature=related) from [Keith Richards](http://www.youtube.com/watch?v=Ps3717fqlkY&feature=related).
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/-CdopMJu7r4" frameborder="0" allowfullscreen></iframe>
-
-Or great [code](https://github.com/imathis/octopress) from [Brandon Mathis](http://octopress.org/).

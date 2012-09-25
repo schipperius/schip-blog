@@ -1,6 +1,5 @@
 ---
 layout: resource
-title: "Resources"
 footer: false
 toc: true
 ---
@@ -14,3 +13,5 @@ Castro, Elizabeth. 2006. <a href="http://www.amazon.ca/gp/product/0321430840/ref
 <h3>HTML and CSS</h3>
 
 Cheung, Ka Wai. 2012.  <a href="http://www.amazon.ca/gp/product/1934356794/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=15121&creative=330641&creativeASIN=1934356794&linkCode=as2&tag=booofjac-20">The Developer's Code: What Real Programmers Do</a><img src="http://www.assoc-amazon.ca/e/ir?t=booofjac-20&l=as2&o=15&a=1934356794" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. Dallas Texas, Raleigh North Carolina: Pragmatic Bookshelf.
+
+I joined the Amazon Associate Affiliate program. Clicking through these titles and making a purchase from Amazon.ca will provide me with a bit of cash to help fund my projects. Your support is greatly appreciated. Thank you.

@@ -13,11 +13,12 @@ I have visited more than 20 of the 58 [national parks](http://en.wikipedia.org/w
 Throughout these parks are many walking and hiking trails and at the start of these trails would be a sign that read:<!-- more -->
 
 >
-![Take nothing but pictures, leave nothing but footprints](/images/articles/take-nothing-but-pictures.jpg/) "Take nothing but pictures, leave nothing but footprints"
-<small><small>Photograph Credit: [JC Olivera](http://www.jcolivera.com/). Used with permission.</small></small>
+<small><small>![Take nothing but pictures, leave nothing but footprints](/images/articles/take-nothing-but-pictures.jpg/ "Take nothing but pictures, leave nothing but footprints.") "Take nothing but pictures, leave nothing but footprints."</small></small>
+---
+<span><small>Photograph Credit: [JC Olivera](http://www.jcolivera.com/). Used with permission.</small></span>
 
-Now, I am far from being a naturalist, I am certainly no [John Muir](http://en.wikipedia.org/wiki/John_Muir) but this phrase has stuck with me and greatly influenced my thinking.
+Now, I am far from being a naturalist, I am certainly no [John Muir](http://en.wikipedia.org/wiki/John_Muir) but this phrase has stuck with me and has influenced my thinking.
 
-First, I grow very weary of all the signs we see, telling us to slow down, speed up, don't go here, don't go there, can't do this, can't do that...
+It's great to see a sign that can influence your behaviour without hitting you over the head with it. 
 
-What is very smart about this sign, is that it doesn't feel like a rule. 
+The idea that you can leave something in the same condition as you first experienced it, conveys a deep feeling of respect without shoving it up your face.
