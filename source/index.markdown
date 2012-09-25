@@ -13,6 +13,4 @@ Does the [Internet](http://en.wikipedia.org/wiki/Internet) need another blog on 
 
 <a class="read-on" href="/articles">Read on &rarr;</a> 
 
-Cheers,
-
 Mark
